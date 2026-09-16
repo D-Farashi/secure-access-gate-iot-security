@@ -42,8 +42,8 @@ Dieses Projekt umfasst die Konzeption, den Aufbau und die Sicherheitsanalyse ein
 - **Gegenmaßnahme:** BLE Secure Connections, App-seitige Challenge-Response.
 
 ## 🚀 Fazit & Learnings
-*[Platzhalter: Was hast du gelernt? Was würdest du beim nächsten Mal anders machen?]*
+*[Platzhalter:]*
 
 ## 📫 Kontakt
-davoud.farashi@outlook.com
+
 
